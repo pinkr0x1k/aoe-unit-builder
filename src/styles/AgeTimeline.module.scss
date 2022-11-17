@@ -1,0 +1,15 @@
+.timeline {
+  transform: rotate(90deg);
+}
+.timelineContentContainer {
+  textalign: "left";
+}
+.timelineContent {
+  display: inline-block;
+  transform: rotate(-90deg);
+  textalign: "center";
+  minwidth: 50;
+}
+.timelineIcon {
+  transform: rotate(-90deg);
+}
