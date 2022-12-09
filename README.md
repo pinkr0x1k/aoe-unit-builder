@@ -1,6 +1,6 @@
 ## DEMO
 
-[Check Age of Emprires Unit Builder App!](https://aoe-unit-builder.vercel.app)
+[Age of Emprires Unit Builder](https://aoe-unit-builder.vercel.app)
 
 ## Description
 Welcome to Age of Empires Unit Builder App.
